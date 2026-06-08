@@ -22,6 +22,10 @@ https://padre.run.place
 
 ## Architecture
 
+## Architecture Diagram
+
+![Architecture Diagram](Helix_mini_project_arch_diagram.drawio.png)
+
 ### Components Used
 
 - VPC (10.0.0.0/16)
