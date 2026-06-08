@@ -24,7 +24,7 @@ https://padre.run.place
 
 ## Architecture Diagram
 
-![Architecture Diagram](Helix_mini_project_arch_diagram.drawio.png)
+![Architecture Diagram](images/Helix_mini_project_arch_diagram.drawio.png)
 
 ### Components Used
 
