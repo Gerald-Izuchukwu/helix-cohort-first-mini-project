@@ -16,7 +16,7 @@ http://18.205.240.173
 
 OR
 
-https://padre.run.place
+http://padre.run.place
 
 ---
 
